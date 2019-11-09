@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7EF112B3-1D32-47F9-81BB-68DFED6B466A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B3A1F0F-D56C-4D9A-8DBE-679E62E1F100"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Accelerometer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "myAccelerometer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A12EAC2-709C-448F-A762-6F3AFAC3C8E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Accelerometer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6A12EAC2-709C-448F-A762-6F3AFAC3C8E0 - de9a60ee8a5c8543"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Accelerometer.ViewController.yAccel.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Accelerometer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gina/personal/CoreMotion/Accelerometer/Accelerometer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "6A12EAC2-709C-448F-A762-6F3AFAC3C8E0 - fae551def65d69b7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Accelerometer.ViewController.yAccel.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Accelerometer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gina/personal/CoreMotion/Accelerometer/Accelerometer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "6A12EAC2-709C-448F-A762-6F3AFAC3C8E0 - d9cb64b5c4d81240"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Accelerometer.ViewController.yAccel.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Accelerometer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gina/personal/CoreMotion/Accelerometer/Accelerometer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "6A12EAC2-709C-448F-A762-6F3AFAC3C8E0 - 766f099b67271d5a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Accelerometer.ViewController.yAccel.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Accelerometer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gina/personal/CoreMotion/Accelerometer/Accelerometer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "6A12EAC2-709C-448F-A762-6F3AFAC3C8E0 - 9571bacb22ec4f7f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Accelerometer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Accelerometer.ViewController"
+                  moduleName = "Accelerometer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gina/personal/CoreMotion/Accelerometer/Accelerometer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "6A12EAC2-709C-448F-A762-6F3AFAC3C8E0 - dba039e2096169e4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Accelerometer.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Accelerometer.ViewController&gt;"
+                  moduleName = "Accelerometer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gina/personal/CoreMotion/Accelerometer/Accelerometer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
