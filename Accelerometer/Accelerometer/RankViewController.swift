@@ -18,9 +18,13 @@ class RankViewController: UIViewController {
 //    @IBOutlet weak var second: UITextField!
     
 
+    
     @IBOutlet weak var first1: UITextField!
+   
     @IBOutlet weak var firstScore: UITextField!
+    
     @IBOutlet weak var second: UITextField!
+    
     @IBOutlet weak var secondScore: UITextField!
     
     let user1 = User(name: "Sherry", score: 100)
