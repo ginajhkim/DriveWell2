@@ -10,21 +10,28 @@ import UIKit
 import CoreMotion
 
 
-
 class ViewController: UIViewController {
     
-    
+    @IBOutlet var startButton: UIView!
     @IBOutlet weak var xAccel: UITextField!
     @IBOutlet weak var yAccel: UITextField!
     @IBOutlet weak var zAccel: UITextField!
+    
     
     var motion = CMMotionManager()
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.applyRoundCorner(startButton)
         myAccelerometer()
     }
+    
+    func applyRoundCorner(_ object:AnyObject){
+        object.layer.cornerRadius = object.frame.size.width/2
+        object.layer.masksToBounds = true
+    }
+    
     func myAccelerometer() {
         motion.accelerometerUpdateInterval = 0.5
         motion.startAccelerometerUpdates(to: OperationQueue.current!) { (data, error) in print(data as Any)
