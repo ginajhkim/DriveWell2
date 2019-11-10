@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33257DAD2377C54500D04699 /* RankViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33257DAC2377C54500D04699 /* RankViewController.swift */; };
 		336CFD66237730AD00DBD3C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336CFD65237730AD00DBD3C7 /* AppDelegate.swift */; };
 		336CFD68237730AD00DBD3C7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336CFD67237730AD00DBD3C7 /* SceneDelegate.swift */; };
 		336CFD6A237730AD00DBD3C7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336CFD69237730AD00DBD3C7 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		10B4FCE27F8630EA1D84AB10 /* Pods-Accelerometer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Accelerometer.release.xcconfig"; path = "Target Support Files/Pods-Accelerometer/Pods-Accelerometer.release.xcconfig"; sourceTree = "<group>"; };
 		14A783C497B62CAF44040263 /* Pods-Accelerometer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Accelerometer.debug.xcconfig"; path = "Target Support Files/Pods-Accelerometer/Pods-Accelerometer.debug.xcconfig"; sourceTree = "<group>"; };
+		33257DAC2377C54500D04699 /* RankViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankViewController.swift; sourceTree = "<group>"; };
 		336CFD62237730AD00DBD3C7 /* Accelerometer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Accelerometer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		336CFD65237730AD00DBD3C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		336CFD67237730AD00DBD3C7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				336CFD67237730AD00DBD3C7 /* SceneDelegate.swift */,
 				336CFD69237730AD00DBD3C7 /* ViewController.swift */,
 				336CFD6B237730AD00DBD3C7 /* Main.storyboard */,
+				33257DAC2377C54500D04699 /* RankViewController.swift */,
 				336CFD6E237730AE00DBD3C7 /* Assets.xcassets */,
 				336CFD70237730AE00DBD3C7 /* LaunchScreen.storyboard */,
 				336CFD73237730AE00DBD3C7 /* Info.plist */,
@@ -210,6 +213,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33257DAD2377C54500D04699 /* RankViewController.swift in Sources */,
 				336CFD6A237730AD00DBD3C7 /* ViewController.swift in Sources */,
 				336CFD66237730AD00DBD3C7 /* AppDelegate.swift in Sources */,
 				336CFD68237730AD00DBD3C7 /* SceneDelegate.swift in Sources */,

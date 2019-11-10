@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "47510176-91DC-42EA-9D26-FECB28F8976E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F42AED6-39CE-4509-BE90-F313A99E4C0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Accelerometer/RankViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "User"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "3F42AED6-39CE-4509-BE90-F313A99E4C0D - 6c4e6d71b9e7d180"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Accelerometer.RankViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Accelerometer.RankViewController"
+                  moduleName = "Accelerometer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gina/DriveWell-Git/DriveWell2/Accelerometer/Accelerometer/RankViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "3F42AED6-39CE-4509-BE90-F313A99E4C0D - 397be5c7bef4beea"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Accelerometer.RankViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Accelerometer.RankViewController&gt;"
+                  moduleName = "Accelerometer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gina/DriveWell-Git/DriveWell2/Accelerometer/Accelerometer/RankViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

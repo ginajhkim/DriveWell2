@@ -23,14 +23,9 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.applyRoundCorner(startButton)
         myAccelerometer()
     }
     
-    func applyRoundCorner(_ object:AnyObject){
-        object.layer.cornerRadius = object.frame.size.width/2
-        object.layer.masksToBounds = true
-    }
     
     func myAccelerometer() {
         motion.accelerometerUpdateInterval = 0.5
