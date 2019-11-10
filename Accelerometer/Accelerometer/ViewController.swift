@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var counterDisplay: UITextField!
     @IBOutlet weak var counterLabel: UITextField!
     
+    
     var motion = CMMotionManager()
     var counter = 0
     

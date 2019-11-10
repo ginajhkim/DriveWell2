@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>909016979205-j6r770ufc62g01eflmnprn96fiof4c3h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.909016979205-j6r770ufc62g01eflmnprn96fiof4c3h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOxGS_gqBtpgwJU2U3YeSlQyxIq1EV3lg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>909016979205</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>gina.Accelerometer</string>
+	<key>PROJECT_ID</key>
+	<string>drivewell-61f5a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>drivewell-61f5a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:909016979205:ios:8dbdf6d281ee9de8d2c96c</string>
+	<key>DATABASE_URL</key>
+	<string>https://drivewell-61f5a.firebaseio.com</string>
+</dict>
+</plist>
